@@ -66,8 +66,8 @@
 | 프로젝트명                      | 설명                                                         | 링크                                      |
 |---------------------------------|-------------------------------------------------------------|--------------------------------------------|
 | **베스킨미누스**                  | 기존 베스킨라빈스 웹사이트에는 제공되지 않던 장바구니, 회원가입 및 로그인 등 사용자 관리 기능을 직접 설계 및 개발  | [🔗 바로가기](https://github.com/minoLMW/group-semiproject) |
-| **Vision AI**                   | 이미지 분석 및 분류 모델 개발                                | [🔗 바로가기](https://github.com/ohjihwan/BridgeHub) |
-| **PLAND**              | 데이터 파이프라인 및 모델 자동화 배포                        | [🔗 바로가기](https://github.com/Final-AI-Project/MakeFinalProject) |
+| **Vision AI**                   | WebRTC를 이용하여 대학생들에게 온라인 스터디 매칭 웹사이트를 제공하는 플랫폼 | [🔗 바로가기](https://github.com/ohjihwan/BridgeHub) |
+| **PLAND**              | 식물 관련 AI 모델들을 사용한 네이티브 앱, 초보자도 쉽게 식물을 키울 수 있도록 정보를 제공 | [🔗 바로가기](https://github.com/Final-AI-Project/MakeFinalProject) |
 
 ---
 
@@ -80,8 +80,8 @@
 ## 📫 Contact
 
 - Email: ohjihwan.dev@gmail.com
-- LinkedIn: [linkedin.com/in/ohjihwan](https://linkedin.com/in/ohjihwan)
-- Blog: [velog.io/@ohjihwan](https://velog.io/@ohjihwan)
+- Notion : [이력서, 포트폴리오 및 공부 내용](https://locrian-storm-ba0.notion.site/1c744640f85b80b1b23ed5108692a023?pvs=74)
+- Study: [구글 드라이브 AI 공부내용](https://drive.google.com/drive/folders/1QCIFxgJ6vZ5DNytpOSNw4j12_qgfzmSx)
 
 ---
 
