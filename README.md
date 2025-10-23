@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-- **AI/ML 개발자**  
-- 딥러닝, 자연어 처리(NLP), 생성형 AI, MLOps에 관심 많음
-- 코드를 통한 문제 해결과 데이터 기반 의사결정을 추구합니다.
+- **AI 개발자**  
+- **웹 퍼블리셔 경력자 (과장급)**
+- 풀스택 웹 개발 (React, Node.js,  express)
 
 ---
 
@@ -21,6 +21,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
 
 ---
 
