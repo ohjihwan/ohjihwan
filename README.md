@@ -1,3 +1,7 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=#b897ff&height=120&text=🤖%20AI%20Developer%20Oh%20Jihwan&animation=&fontColor=000000&fontSize=70" />
+</div>
+
 # 🤖 AI Developer Oh Jihwan
 
 안녕하세요!
