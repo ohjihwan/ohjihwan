@@ -1,7 +1,7 @@
 # 🤖 AI Developer Oh Jihwan
 
-안녕하세요!  
-최신 AI 기술과 코드를 활용해 세상을 더 똑똑하게 만드는 개발자 **오지환**입니다.
+안녕하세요!
+데이터와 기술로 더 나은 세상을 만들고 싶은 AI 개발자 **오지환** 입니다
 
 ---
 
@@ -65,9 +65,9 @@
 
 | 프로젝트명                      | 설명                                                         | 링크                                      |
 |---------------------------------|-------------------------------------------------------------|--------------------------------------------|
-| **AI Chatbot**                  | GPT 기반 자연어 대화 챗봇                                    | [🔗 바로가기](https://github.com/ohjihwan/ai-chatbot) |
-| **Vision AI**                   | 이미지 분석 및 분류 모델 개발                                | [🔗 바로가기](https://github.com/ohjihwan/vision-ai) |
-| **MLOps Pipeline**              | 데이터 파이프라인 및 모델 자동화 배포                        | [🔗 바로가기](https://github.com/ohjihwan/mlops-pipeline) |
+| **베스킨미누스**                  | 기존 베스킨라빈스 웹사이트에는 제공되지 않던 장바구니, 회원가입 및 로그인 등 사용자 관리 기능을 직접 설계 및 개발  | [🔗 바로가기](https://github.com/minoLMW/group-semiproject) |
+| **Vision AI**                   | 이미지 분석 및 분류 모델 개발                                | [🔗 바로가기](https://github.com/ohjihwan/BridgeHub) |
+| **PLAND**              | 데이터 파이프라인 및 모델 자동화 배포                        | [🔗 바로가기](https://github.com/Final-AI-Project/MakeFinalProject) |
 
 ---
 
