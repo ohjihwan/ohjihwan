@@ -87,7 +87,7 @@
 
 - Email: ohjihwan.dev@gmail.com
 - Notion : [이력서, 포트폴리오 및 공부 내용](https://locrian-storm-ba0.notion.site/1c744640f85b80b1b23ed5108692a023?pvs=74)
-- Study: [구글 드라이브 AI 공부내용](https://drive.google.com/drive/folders/1QCIFxgJ6vZ5DNytpOSNw4j12_qgfzmSx) , [AI 개인 공부 기록](https://www.notion.so/24944640f85b8001b8aad93fd5f8cfaa?v=24944640f85b80bfa777000cb6e9bfff)
+- Study: [AI 개인 공부 기록](https://www.notion.so/24944640f85b8001b8aad93fd5f8cfaa?v=24944640f85b80bfa777000cb6e9bfff)
 
 ---
 
