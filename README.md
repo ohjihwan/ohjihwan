@@ -78,7 +78,7 @@
 
 ## 📈 GitHub Stats
 
-<!-- ![ohjihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjihwan&show_icons=true&theme=radical) -->
+![ohjihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjihwan&show_icons=true&theme=radical) <!-- -->
 ![Metrics](https://github-readme-stats.vercel.app/api?username=ohjihwan&hide_rank=true&hide_title=true&show_icons=true&theme=tokyonight)
 
 ---
