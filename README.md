@@ -70,7 +70,7 @@
 | 프로젝트명                      | 설명                                                         | 링크                                      |
 |---------------------------------|-------------------------------------------------------------|--------------------------------------------|
 | **베스킨미누스**                  | 기존 베스킨라빈스에는 제공되지 않던 쇼핑 기능, 회원가입 및 로그인 등 기능을 추가 설계 및 개발  | [🔗 바로가기](https://github.com/minoLMW/group-semiproject) |
-| **Vision AI**                   | WebRTC를 이용하여 대학생들에게 온라인 스터디 매칭 웹사이트를 제공하는 플랫폼 | [🔗 바로가기](https://github.com/ohjihwan/BridgeHub) |
+| **BridgeHub**                   | WebRTC를 이용하여 대학생들에게 온라인 스터디 매칭 웹사이트를 제공하는 플랫폼 | [🔗 바로가기](https://github.com/ohjihwan/BridgeHub) |
 | **PLAND**              | 식물 관련 AI 모델들을 사용한 네이티브 앱, 초보자도 쉽게 식물을 키울 수 있도록 정보를 제공 | [🔗 바로가기](https://github.com/Final-AI-Project/MakeFinalProject) |
 | **Pet Plan Book**              | 서울데이터 공모전 도전! 반려동물과 함께하는 여행 계획 | [🔗 바로가기](https://github.com/ohjihwan/petplanbook) |
 
